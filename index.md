@@ -8,7 +8,7 @@ layout: default
 
 There is no official procedure to join. We have meetups on occasion! Please join us on [MeetUp](http://www.meetup.com/Boston-Embedded-Systems-Meetup/)
 
-<iframe width="225" height="570" src="http://meetu.ps/3148sc" frameborder="0"></iframe>
+<iframe width="225" height="570" src="//meetu.ps/3148sc" frameborder="0"></iframe>
 
 ## Next Event
 
