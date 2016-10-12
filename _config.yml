@@ -1,0 +1,10 @@
+# Site settings
+title: Embedded Boston
+tag_text: embedded-boston
+description: Embedded Boston is a meetup of embedded systems engineers and enthusiasts in the Boston Area.
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md", ".travis.yml", ".ruby-version"]
+sass:
+  style: compressed
